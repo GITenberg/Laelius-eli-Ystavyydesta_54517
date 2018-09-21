@@ -1,0 +1,28 @@
+_repo: Laelius-eli-Ystavyydesta_54517
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Heino, K.
+    gutenberg_agent_id: '47910'
+    url: http://www.gutenberg.org/2009/agents/47910
+creator:
+  author:
+    agent_name: Cicero, Marcus Tullius
+    birthdate: -106
+    deathdate: -43
+    gutenberg_agent_id: '128'
+    url: http://www.gutenberg.org/2009/agents/128
+    wikipedia: http://en.wikipedia.org/wiki/Cicero
+description: ''
+gutenberg_issued: '2017-04-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54517'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Laelius eli Ystävyydestä
+url: http://www.gutenberg.org/ebooks/54517
